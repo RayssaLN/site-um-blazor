@@ -1,0 +1,16 @@
+@page "/contador"
+
+<PageTitle>Contador de Clicks</PageTitle>
+
+<h1>Número de cliques: @quantidade</h1>
+
+<button class="btn btn-primary" @onclick="Incrementar">Clique Aqui</button>
+
+@code {
+    private int quantidade = 0;
+
+    private void Incrementar()
+    {
+        quantidade++;
+    }
+}
