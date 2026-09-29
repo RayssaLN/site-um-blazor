@@ -6,8 +6,8 @@ Projeto desenvolvido em **Blazor WebAssembly (.NET 10)** referente aos exercíci
 
 ## 👨‍🎓 Informações do Aluno
 
-- **Nome:** Eduardo Alves e Santos
-- **RA:** 124114208
+- **Nome:** Rayssa Leal Nascimento
+- **RA:** 12419301
 - **Curso:** Engenharia de Software
 - **Campus:** UniBH - Estoril
 - **Professor:** Daniel Henrique Matos de Paiva
