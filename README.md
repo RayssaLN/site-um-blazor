@@ -55,7 +55,7 @@ A atividade consiste na criação de um projeto em Blazor WebAssembly contendo 4
 
 MIT License
 
-Copyright (c) 2026 Eduardo Alves e Santos
+Copyright (c) 2026 Rayssa Leal Nascimento
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
